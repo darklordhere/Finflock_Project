@@ -19,7 +19,7 @@
 
 # Testing CRUD Operations
 
-# API Endpoints
+## API Endpoints
 
 ### (Method - 1)
 - 1. List all entries: GET /api/table1/
