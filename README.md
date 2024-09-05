@@ -33,4 +33,4 @@
 - 5. Delete an entry: DELETE /api/table1/{id}/
 
 ### (Method - 2)
-Note : If wanna see changes realtime then use curl before commands :-)
+Alternative : You can use Curl operations as well for command line :-)
