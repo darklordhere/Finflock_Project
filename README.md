@@ -13,12 +13,12 @@
 
 - Install django, djangorestframework and django-filter
 
-- Apply migrations
-> python manage.py makemigrations
-> python manage.py migrate
+- Apply migrations by makemigrations and migrate
 
-- Create a SuperUser or Directly Run Server as per need
+- Create a SuperUser 
 > python manage.py createsuperuser
+
+- Run Server 
 > python manage.py runserver
 
 # Testing CRUD Operations
@@ -26,11 +26,11 @@
 # API Endpoints
 
 (Method - 1)
-> List all entries: GET /api/table1/
-> Retrieve a specific entry: GET /api/table1/{id}/
-> Create a new entry: POST /api/table1/
-> Update an existing entry: PUT /api/table1/{id}/
-> Delete an entry: DELETE /api/table1/{id}/
+- List all entries: GET /api/table1/
+- Retrieve a specific entry: GET /api/table1/{id}/
+- Create a new entry: POST /api/table1/
+- Update an existing entry: PUT /api/table1/{id}/
+- Delete an entry: DELETE /api/table1/{id}/
 
 (Method - 2)
 Note : If wanna see changes realtime then use curl before commands :-)
