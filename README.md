@@ -2,6 +2,10 @@
 
 ## Django REST Project with CRUD Operations containing 2 tables with primary key and foreign key relationship. In Addition Filter by Name and Date.
 
+# Task Image
+
+![Image](https://gateway.pinata.cloud/ipfs/QmVU7zdBXLPptTXUx3WTnhVWfpJCnM9tRgoZTB7eesDCpw)
+
 ## Setup and Running the Project
 
 ### 1. Clone the repo
