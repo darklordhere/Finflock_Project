@@ -4,17 +4,17 @@
 
 ## Setup and Running the Project
 
-### Clone the repo
+### 1. Clone the repo
 
-### Create VirtualEnv and Activate it
+### 2. Create VirtualEnv and Activate it
 
-### Install django, djangorestframework and django-filter
+### 3. Install django, djangorestframework and django-filter
 
-### Apply migrations by makemigrations and migrate
+### 4. Apply migrations by makemigrations and migrate
 
-### Create a SuperUser 
+### 5. Create a SuperUser 
 
-### Run Server 
+### 6. Run Server 
 > python manage.py runserver
 
 # Testing CRUD Operations
@@ -22,11 +22,11 @@
 # API Endpoints
 
 ### (Method - 1)
-- List all entries: GET /api/table1/
-- Retrieve a specific entry: GET /api/table1/{id}/
-- Create a new entry: POST /api/table1/
-- Update an existing entry: PUT /api/table1/{id}/
-- Delete an entry: DELETE /api/table1/{id}/
+- 1. List all entries: GET /api/table1/
+- 2. Retrieve a specific entry: GET /api/table1/{id}/
+- 3. Create a new entry: POST /api/table1/
+- 4. Update an existing entry: PUT /api/table1/{id}/
+- 5. Delete an entry: DELETE /api/table1/{id}/
 
 ### (Method - 2)
 Note : If wanna see changes realtime then use curl before commands :-)
